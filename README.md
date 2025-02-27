@@ -1,4 +1,4 @@
-# HRLDAS/Noah-MP code used in _Implementing deep soil and dynamic root uptake in Noah-MP (v4.5): Impact on Amazon dry-season transpiration_ (2024)
+# HRLDAS/Noah-MP code used in _Implementing deep soil and dynamic root uptake in Noah-MP (v4.5): Impact on Amazon dry-season transpiration_ (2025)
 
 There are three branches in this repository, each with different versions of HRLDAS/Noah-MP.
 
